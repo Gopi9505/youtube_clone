@@ -1,0 +1,11 @@
+*{
+
+}
+.name{
+    font-size: 25px;
+    font-weight: bolder;
+    color: red;
+    position: absolute;
+    left: 15px;
+    top: 20px;
+}
